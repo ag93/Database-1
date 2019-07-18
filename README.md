@@ -1,2 +1,2 @@
 # Database-1
-Assignments for CSE-5344
+Assignments for CSE-5330
